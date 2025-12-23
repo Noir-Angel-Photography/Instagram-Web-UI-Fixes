@@ -8,9 +8,9 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instagram.com
 // @grant        none
 // @run-at       document-start
-// @updateURL    none
-// @downloadURL  none
-// @supportURL   none
+// @updateURL    https://raw.githubusercontent.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/refs/heads/main/Tampermonkey/Instagram-Image-Quality-Fix
+// @downloadURL  https://raw.githubusercontent.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/refs/heads/main/Tampermonkey/Instagram-Image-Quality-Fix
+// @supportURL   https://github.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/issues
 // ==/UserScript==
 
 (function() {
