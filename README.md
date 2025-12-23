@@ -5,7 +5,7 @@ This is a small collection of various fixes and improvements to Instagram's web 
 #### Disclaimer:
 Please note that while I am a technically literate person, I am not a coder or software developer. These tools were developed with the use of Gemini AI, albeit with substantial direction and input from me.
 
-## Included tools (so far):
+## Included tools (so far)
 
 ### Instagram Image Quality Fix + Extras
 
@@ -20,4 +20,4 @@ This is the first of hopefully many quality-of-life fixes for anyone following m
 ---
 Everything below this point is still under construction.
 
-## Recommended usage:
+## Recommended usage
