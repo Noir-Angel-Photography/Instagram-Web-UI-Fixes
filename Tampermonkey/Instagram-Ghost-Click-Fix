@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Instagram Ghost Click Fix (Full)
+// @name         Instagram Ghost Click Fix
 // @namespace    https://www.noirangel.photo
 // @version      1.1
 // @description  Prevents the "ghost click" bug on Instagram mobile web where tapping the background overlay incorrectly triggers a click on the profile grid below.
