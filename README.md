@@ -2,6 +2,9 @@
 
 This is a small collection of various fixes and improvements to Instagram's web UI. Check out my [Definitive(ish) Guide to How Instagram Handles Images](https://www.reddit.com/user/NoirAngelPhotography/comments/1j4hugh/a_definitiveish_guide_to_how_instagram_handles/) for more information about how Instagram works behind the scenes.
 
+#### Disclaimer:
+Please note that while I am a technically literate person, I am not a coder or software developer. These tools were developed with the use of Gemini AI, albeit with substantial direction and input from me.
+
 ## Included tools (so far):
 
 ### Instagram Image Quality Fix + Extras
