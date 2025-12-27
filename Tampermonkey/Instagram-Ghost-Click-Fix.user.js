@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instagram.com
 // @grant        none
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/refs/heads/main/Tampermonkey/Instagram-Ghost-Click-Fix
-// @downloadURL  https://raw.githubusercontent.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/refs/heads/main/Tampermonkey/Instagram-Ghost-Click-Fix
+// @updateURL    https://github.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/raw/refs/heads/main/Tampermonkey/Instagram-Ghost-Click-Fix.user.js
+// @downloadURL  https://github.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/raw/refs/heads/main/Tampermonkey/Instagram-Ghost-Click-Fix.user.js
 // @supportURL   https://github.com/Noir-Angel-Photography/Instagram-Web-UI-Fixes/issues
 // ==/UserScript==
 
